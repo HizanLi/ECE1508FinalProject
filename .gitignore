@@ -1,4 +1,9 @@
 *.pt
 animals90TrainDataset.pt
 animals90TestDataset.pt
+<<<<<<< HEAD
 *.pth
+=======
+animals90valDataset.pt
+VIT.pth
+>>>>>>> d883a2fcde4f6cf0c7c49bd89b00063ae4622c6e
