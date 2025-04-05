@@ -1,4 +1,4 @@
-animals10Dataset.pt
+*.pt
 animals90TrainDataset.pt
 animals90TestDataset.pt
 VIT.pth
